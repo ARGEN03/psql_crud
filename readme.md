@@ -19,10 +19,11 @@ source venv/bin/activate
 ```
 
 ### Установите зависимости:
+вы можете скачать библиотеки с файла requirements.txt
 
 
 ```bash  
-pip install sqlalchemy pydantic_sqlalchemy
+pip install -r requirements.txt
 ```
 
 
